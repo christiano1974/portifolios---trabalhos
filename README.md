@@ -24,5 +24,5 @@ Explorei aplicações práticas de conceitos matemáticos em um projeto que dest
 
 Estou aberto a oportunidades de colaboração e discussões sobre projetos relacionados a ciência de dados, matemática e estatística.
 
-- **Email:** seuemail@example.com
-- **LinkedIn:** [Perfil no LinkedIn](link_para_perfil_linkedin)
+- **Email:** christianobr2000@gmail.com
+- **LinkedIn:** [Perfil no LinkedIn](https://www.linkedin.com/in/christiano1974/)
